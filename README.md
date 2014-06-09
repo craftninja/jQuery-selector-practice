@@ -21,9 +21,6 @@ The first one has been filled out for you.
 
 * Fork
 * Clone
-* Turn on TravisCI for the fork by
-  visiting https://travis-ci.org/profile/<github user name>, clicking the "Sync now" button
-  and scrolling down to find the repository to build.
 * Create a new branch for your work using `git checkout -b v1`
 * Implement specs and code
 * Push using `git push -u origin v1`
